@@ -94,4 +94,4 @@ async def on_command_error(ctx, error):
         await ctx.send("⚠️ **Kanka Dur!** Bu komutu kullanmak için yetkin yok.", delete_after=10)
 
 # --- BURAYA DİKKAT: TOKEN BURAYA EKLENECEK ---
-bot.run("MTMyNzU1ODkxNzkxNTU0MTUzOA.GvLI3q.uhFS70ZnWz__uPbkL2K56ADUt93PiPeoudi0zM")
+bot.run("")
